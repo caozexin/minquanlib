@@ -12,5 +12,5 @@
 
 民权电子书库项目可以做和需要做的事情太多，但相对来说， <strong>[曹泽新语言桥项目](https://github.com/caozexin/LanguageBridge)</strong> 和 <strong>[麻瓜学习革命](https://github.com/caozexin/LearningRevolution)</strong> 等这些项目要更迫切一些。我们准备在条件具备的时候，大批量进行民权书库的编辑工作。
 
-等这个项目基本成形，大家也许就不需要盗版书，就可以用这些电子书，自由免费地学习了。
+等这个项目基本成形，大家就不再需要盗版书，可以用这些电子书，自由免费地学习了。
 
